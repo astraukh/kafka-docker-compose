@@ -1,0 +1,17 @@
+*.iml
+*.class
+.idea/*
+target/*
+.idea/.name
+target/
+/war/build/weboutput
+.settings/
+/war/.*
+/ear/.*
+/distribution/.*
+/.*
+pom.xml.releaseBackup
+release.properties
+!.gitignore
+
+/conf/
