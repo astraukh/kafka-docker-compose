@@ -1,0 +1,2 @@
+[kafka]
+subjectAltName = DNS:kafka0,DNS:localhost0,DNS:localhost
